@@ -60,3 +60,12 @@ footer p {
 nav a:hover {
     color: #b1e6d1;
 }
+
+.steve {
+    text-align: center;
+    
+}
+
+.steve img {
+    border: 7px solid #b1e6d1;
+}
